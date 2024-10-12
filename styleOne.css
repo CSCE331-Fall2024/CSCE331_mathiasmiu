@@ -122,6 +122,13 @@ body {
   margin: 30px;
 }
 
+.nasaImgWrap{
+  float: right;
+  margin: 30px;
+  height: 30%;
+  width: 30%;
+}
+
 .littleMeWrap{
   float: right;
   margin: 30px;
